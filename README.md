@@ -1,4 +1,4 @@
-# PandoraFMS DISCO – VMware vCenter Services (vAPI)
+# PandoraFMS – VMware vCenter Services (vAPI)
 
 Package: **pandorafms.vmware_vcenter_services**  
 Purpose: Monitor *vCenter services* and their *state/health* using VMware vAPI (HTTPS) without pyVmomi.
